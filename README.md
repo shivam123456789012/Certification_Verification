@@ -12,5 +12,5 @@ verification and saved in the data repository.
 4. Delete Intern Information: 
 Users can delete existing intern information by specifying the intern ID to be deleted. After deletion, the application verifies if the information has been successfully removed from the 
 data repository.
-5 Download Updated CSV: 
+5. Download Updated CSV: 
 Users can download the updated intern data in CSV format after performing add or delete operations. 
